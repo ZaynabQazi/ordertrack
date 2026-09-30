@@ -3,7 +3,7 @@
 CSC337 Lab Assignment 04. One full-stack app that uses **REST, WebSockets (Socket.io), JSON-RPC 2.0 and Server-Sent Events** together.
 
 - **Live frontend:** `PASTE_NETLIFY_OR_VERCEL_URL`
-- **Live backend:** `PASTE_RENDER_OR_RAILWAY_URL`
+- **Live backend:** https://ordertrackz.onrender.com/
 
 ## What it does
 
