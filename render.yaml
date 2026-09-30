@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: order-tracker-backend
+    runtime: node
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: CLIENT_ORIGIN
+        value: "*"
